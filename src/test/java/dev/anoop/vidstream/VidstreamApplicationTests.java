@@ -5,9 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class VidstreamApplicationTests {
-
 	@Test
 	void contextLoads() {
+    // this test does not do anything except for checking that all dependencies are satisfied
 	}
-
 }
